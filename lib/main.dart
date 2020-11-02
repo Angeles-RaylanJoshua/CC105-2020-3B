@@ -9,7 +9,7 @@ void main() {
             title: Text('I Am Rich'), backgroundColor: Colors.blueGrey[900]),
         body: Center(
           child: Image(
-            image: AssetImage('assets/image3.gif'),
+            image: AssetImage('images/image3.gif'),
           ),
         ),
       ),
